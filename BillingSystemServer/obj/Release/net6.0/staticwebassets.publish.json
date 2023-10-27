@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5d4fq6yQE53sYQh+sY5/qPQNSm4J0fr+K274gXFOXAI=",
+  "Source": "BillingSystemServer",
+  "BasePath": "_content/BillingSystemServer",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

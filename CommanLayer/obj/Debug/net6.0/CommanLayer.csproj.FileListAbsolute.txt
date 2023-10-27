@@ -1,0 +1,14 @@
+C:\Users\pca210\source\repos\BillingSystem\CommanLayer\bin\Debug\net6.0\CommanLayer.deps.json
+C:\Users\pca210\source\repos\BillingSystem\CommanLayer\bin\Debug\net6.0\CommanLayer.dll
+C:\Users\pca210\source\repos\BillingSystem\CommanLayer\bin\Debug\net6.0\CommanLayer.pdb
+C:\Users\pca210\source\repos\BillingSystem\CommanLayer\obj\Debug\net6.0\CommanLayer.csproj.AssemblyReference.cache
+C:\Users\pca210\source\repos\BillingSystem\CommanLayer\obj\Debug\net6.0\CommanLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca210\source\repos\BillingSystem\CommanLayer\obj\Debug\net6.0\CommanLayer.AssemblyInfoInputs.cache
+C:\Users\pca210\source\repos\BillingSystem\CommanLayer\obj\Debug\net6.0\CommanLayer.AssemblyInfo.cs
+C:\Users\pca210\source\repos\BillingSystem\CommanLayer\obj\Debug\net6.0\CommanLayer.csproj.CoreCompileInputs.cache
+C:\Users\pca210\source\repos\BillingSystem\CommanLayer\obj\Debug\net6.0\CommanLayer.dll
+C:\Users\pca210\source\repos\BillingSystem\CommanLayer\obj\Debug\net6.0\refint\CommanLayer.dll
+C:\Users\pca210\source\repos\BillingSystem\CommanLayer\obj\Debug\net6.0\CommanLayer.pdb
+C:\Users\pca210\source\repos\BillingSystem\CommanLayer\obj\Debug\net6.0\ref\CommanLayer.dll
+C:\Users\pca210\source\repos\BillingSystem\CommanLayer\bin\Debug\net6.0\CommanLayer.runtimeconfig.json
+C:\Users\pca210\source\repos\BillingSystem\CommanLayer\obj\Debug\net6.0\CommanLayer.genruntimeconfig.cache

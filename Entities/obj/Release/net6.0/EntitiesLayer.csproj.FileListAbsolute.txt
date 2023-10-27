@@ -1,0 +1,17 @@
+C:\Users\pca210\source\repos\BillingSystem\Entities\bin\Release\net6.0\EntitiesLayer.deps.json
+C:\Users\pca210\source\repos\BillingSystem\Entities\bin\Release\net6.0\EntitiesLayer.runtimeconfig.json
+C:\Users\pca210\source\repos\BillingSystem\Entities\bin\Release\net6.0\EntitiesLayer.dll
+C:\Users\pca210\source\repos\BillingSystem\Entities\bin\Release\net6.0\EntitiesLayer.pdb
+C:\Users\pca210\source\repos\BillingSystem\Entities\bin\Release\net6.0\CommanLayer.dll
+C:\Users\pca210\source\repos\BillingSystem\Entities\bin\Release\net6.0\CommanLayer.pdb
+C:\Users\pca210\source\repos\BillingSystem\Entities\obj\Release\net6.0\EntitiesLayer.csproj.AssemblyReference.cache
+C:\Users\pca210\source\repos\BillingSystem\Entities\obj\Release\net6.0\EntitiesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca210\source\repos\BillingSystem\Entities\obj\Release\net6.0\EntitiesLayer.AssemblyInfoInputs.cache
+C:\Users\pca210\source\repos\BillingSystem\Entities\obj\Release\net6.0\EntitiesLayer.AssemblyInfo.cs
+C:\Users\pca210\source\repos\BillingSystem\Entities\obj\Release\net6.0\EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\pca210\source\repos\BillingSystem\Entities\obj\Release\net6.0\EntitiesLayer.csproj.CopyComplete
+C:\Users\pca210\source\repos\BillingSystem\Entities\obj\Release\net6.0\EntitiesLayer.dll
+C:\Users\pca210\source\repos\BillingSystem\Entities\obj\Release\net6.0\refint\EntitiesLayer.dll
+C:\Users\pca210\source\repos\BillingSystem\Entities\obj\Release\net6.0\EntitiesLayer.pdb
+C:\Users\pca210\source\repos\BillingSystem\Entities\obj\Release\net6.0\EntitiesLayer.genruntimeconfig.cache
+C:\Users\pca210\source\repos\BillingSystem\Entities\obj\Release\net6.0\ref\EntitiesLayer.dll
